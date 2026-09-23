@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "249d11690ae7279c70a9715b",
+  "owner": "xrfqywhwctd",
+  "repo": "page-13d16a1e268b09bd92c10937",
+  "title": "影子",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "13d16a1e268b09bd92c10937",
+      "a": "影子",
+      "b": "机场官网线路发布页",
+      "entity": "影子",
+      "brand": "影子",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "897d7e309ea9f28482feb84ee538e3ffc6068868638ed3377844551a23d60a40",
+      "content": {
+        "primary_entity": "影子",
+        "keyword1": "影子",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端：Windows 与 macOS 适合桌面客户端，Android 与 iOS 使用移动端应用，路由器与电视盒子可配置订阅链接。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "查看套餐流量与设备数量，依客户端文档导入订阅即可使用。",
+          "AI_CLOSING_TITLE": "选择适合的套餐",
+          "AI_DESCRIPTION": "，影子提供基础版、旗舰版与团队版三档套餐，月付价格从 ¥15 到 ¥85，年付更划算。旗舰版含 IPLC 专线游戏加速优化，团队版支持 20 台设备与专属客户经理。可根据每月流量、同时在线设备数与流媒体需求挑选。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备并含 IPLC 专线；团队版每月 1000GB、支持 20 台设备，按使用人数与流量需求选择即可。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台设备同时在线，按家庭成员或团队人数选择合适档位。",
+          "AI_FAQ_ANSWER_3": "基础版解锁基础流媒体，旗舰版与团队版支持全节点原生流媒体解锁，有 4K 流媒体需求可选择旗舰版及以上。",
+          "AI_FAQ_ANSWER_4": "三个套餐都提供按年付选项：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用比月付节省约两个月费用。",
+          "AI_FAQ_ANSWER_5": "在客户端应用中导入订阅链接，Windows 与 macOS 使用桌面客户端，Android 与 iOS 使用移动端应用，路由器可手动配置订阅地址。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版的主要区别是什么？",
+          "AI_FAQ_QUESTION_2": "每个套餐支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "哪个套餐支持全节点流媒体解锁？",
+          "AI_FAQ_QUESTION_4": "年付价格与月付相比能省多少？",
+          "AI_FAQ_QUESTION_5": "如何在客户端配置影子订阅？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "影子三档套餐覆盖个人到团队场景，从流量、设备数与专线优化三个维度区分。",
+          "AI_FEATURES_TITLE": "套餐选择与配置要点",
+          "AI_FEATURE_TEXT_1": "基础版 ¥15/月含 100GB 流量与 3 台设备，旗舰版 ¥35/月含 300GB 与 IPLC 专线，团队版 ¥85/月含 1000GB 与 20 台设备。",
+          "AI_FEATURE_TEXT_2": "旗舰版支持 5 台设备同时在线并含 IPLC 专线游戏加速优化，团队版支持 20 台设备与 VIP 高带宽节点。",
+          "AI_FEATURE_TEXT_3": "三个套餐均可按年付，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，适合长期稳定使用。",
+          "AI_FEATURE_TITLE_1": "三档套餐按需选",
+          "AI_FEATURE_TITLE_2": "设备与专线匹配",
+          "AI_FEATURE_TITLE_3": "年付更省费用",
+          "AI_GUIDE_INTRO": "先确定设备数量与月流量，再对比套餐，最后依客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "影子提供基础版、旗舰版与团队版三档海外加速套餐，覆盖 100GB 到 1000GB 月流量，支持 3 到 20 台设备同时在线，旗舰版含 IPLC 专线游戏加速优化。",
+          "AI_HERO_SUBTITLE": "影子加速套餐按需选",
+          "AI_HIGHLIGHT_1": "三档套餐 100GB 至 1000GB",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "年付低至 ¥150 每年",
+          "AI_PLANS_INTRO": "基础版适合个人轻量使用，旗舰版含 IPLC 专线适合游戏与流媒体，团队版支持 20 台设备适合小组协作。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量、设备数量和流媒体需求，在基础版、旗舰版、团队版中选择。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端类型，查看套餐支持的设备数量与节点要求。",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅链接，按客户端文档完成配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "影子三档加速套餐"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jx7l.cn",
+    "host": "jx7l.cn"
+  },
+  "file_hashes": {
+    "index.html": "f1be3f5045e1757d68bac2a1facb95934bb810da6a5e871809e74f5c42ffba7f",
+    "sitemap.xml": "b0bffd66a469e55e74438ae64b3b4c998e3542b7e3ce7f6f5e4f5f53761d4a16",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0d5e95ac29aabcac23fe36b0d54d4336342240e8b0c78ebfd8b377720e10f357",
+    "robots.txt": "0fdc12d356e3a7d5480ea66fe0ed0841a3b59d63f2df758febc6a9223ce27d74",
+    "e6054c15da24aadc4ffe78ce808ec438.txt": "0ac7c1f7dfdd02459960a37d2cfe49258bb9040a58cd3937a54b22b24a6f8a5c"
+  },
+  "revision": "b922af971dccc775a9585ac14debc52113b351ff7798161ef1dcc0a253557288"
+}

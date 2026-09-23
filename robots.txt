@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jx7l.cn/sitemap.xml
